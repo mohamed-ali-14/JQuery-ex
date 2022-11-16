@@ -1,0 +1,31 @@
+/* .test{
+ height: 25px;
+ width:400px ;
+  background-color: rgb(219, 219, 219);
+  position: relative;
+  border-radius: 12.5px;
+
+}
+.prog{
+  height: 25px;
+  width:0px ;
+  border-radius: 12.5px;
+   background-color: rgb(84, 0, 240);
+   position: absolute;
+   top: 0;
+} */
+/* .lol{
+  width: 400px;
+  height: 400px;
+  background-color: royalblue;
+} */
+
+.box{
+  background-color: gainsboro;
+  width: 10px;
+  height: 10px;
+  
+}
+h2 ,.item{
+  display: none;
+};
